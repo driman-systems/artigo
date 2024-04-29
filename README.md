@@ -1,4 +1,4 @@
-# Processo de Criação do Artigo sobre Server Actions do Next.js 14
+# Processo de Criação do ## [Artigo](https://web.dio.me/articles/como-as-server-actions-do-nextjs-14-podem-mudar-o-desenvolvimento-web?back=%2Farticles&open-modal=true&page=1&order=oldest) sobre Server Actions do Next.js 14
 
 ## Pedido Inicial
 O pedido inicial era para comportar-me como um escritor de artigos de tecnologia front-end e escrever um artigo seguindo as especificações abaixo:
@@ -23,4 +23,3 @@ Como as Server Actions do Next.js 14 Podem Mudar o Desenvolvimento Web
 - Instagram -> https://www.instagram.com/driman.systems/
 - Linkedin -> https://www.linkedin.com/in/anderson-luiz-da-silva-3bb76741/
 
-- ## [Artigo](https://web.dio.me/articles/como-as-server-actions-do-nextjs-14-podem-mudar-o-desenvolvimento-web?back=%2Farticles&open-modal=true&page=1&order=oldest)
